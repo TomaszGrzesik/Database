@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1434561192 source:d:\baza\baza.c
+	"baza.h"
+
+1433969974 d:\baza\baza.h
+	<stdio.h>
+
+1434025492 source:d:\baza\main.c
+	<stdio.h>
+	<stdlib.h>
+	"baza.h"
+
